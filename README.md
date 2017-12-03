@@ -1,2 +1,4 @@
-# Ruby
-Ruby Tutorials ~HackerRank
+# Ruby Tutorials ~HackerRank
+
+Contains Ruby Programs 
+
